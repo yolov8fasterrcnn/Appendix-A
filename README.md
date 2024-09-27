@@ -2,6 +2,9 @@ This repository contains the code used to calculate the performance metrics of F
 
 - YOLOv8_EE_GPU contains the ipynb file of the notebook used for evaluating YOLOv8
 - FASTER_RCNN_EE_GPU contains the ipynb file of the notebook used for evaluating Faster RCNN
+- Yolov8n intermediate and auxilary data is an excel contaiining the intermediate data used to derive the final performance metrics for YOLOv8n
+- Faster Rcnn intermediate and auxilary data is an excel contaiining the intermediate data used to derive the final performance metrics for Faster R-cnn.
+- Both excels also contain auxilary data for the metrics for each supercategory which can be neglected as it was not discussed in the essay. 
 
 Key Features
 
