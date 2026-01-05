@@ -1,4 +1,4 @@
-This repository contains the code used to calculate the performance metrics of Faster R-CNN and YOLOv8. Inference was run on both models in separate Jupyter notebooks, allowing for a detailed comparison of their performance.
+This repository contains the code used to calculate the performance metrics of Faster R-CNN and YOLOv8. Inference was run on both models in separate Jupyter notebooks, allowing for a detailed comparison of their performance. It also now contains the Extended Essay which I submitted containing the research and analysis.
 
 - YOLOv8_EE_GPU contains the ipynb file of the notebook used for evaluating YOLOv8
 - FASTER_RCNN_EE_GPU contains the ipynb file of the notebook used for evaluating Faster RCNN
